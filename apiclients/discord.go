@@ -1,10 +1,10 @@
 package apiclients
 
 import (
-	"discobot/utils"
 	"fmt"
 	"github.com/bwmarrin/discordgo"
-	"discobot/handlers"
+	"github.com/efimshifrin/discobot/handlers"
+	"github.com/efimshifrin/discobot/utils"
 )
 
 func DiscordClient() {
